@@ -1,0 +1,20 @@
+<html>
+<head>
+<title> Program2 </title>
+
+	<script> 
+		document.write( "<center><table><tr> <th>Number</th> <th>Square</th> <th>Cube</th> </tr>" ) 
+		for(var n=0; n<=10; n++) 
+		{ 
+		document.write( "<tr><td><center>n=" +n+ "</center></td><td><center>" +n*n+ "</center></td><td><center>" +n*n*n+ "</center></td></tr>" ) 
+		} 
+		document.write( "</table></center>" ) 
+	</script> 
+</head> 
+
+<body bgcolor="black">
+	<style>
+		tr{color:white}
+	<style>
+</body>
+</html>

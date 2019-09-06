@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/css" href="prog5.css" ?>
+<vvce>
+
+<student>
+<USN> 001 </USN>
+<NAME> NAME: XYZ </NAME>
+<COLLEGE> COLLEGE: VVCE</COLLEGE>
+<BRANCH> BRANCH: CSE </BRANCH>
+<E-MAIL> EMAIL: xyz@gmail.com </E-MAIL>
+</student>
+
+
+<student>
+<USN> 005 </USN>
+<NAME> NAME: ABC </NAME>
+<COLLEGE> COLLEGE: VVCE</COLLEGE>
+<BRANCH> BRANCH: ECE </BRANCH>
+<E-MAIL> EMAIL: abc@gmail.com </E-MAIL>
+<br/>
+<br/>
+</student>
+
+<student>
+<USN> 008 </USN>
+<NAME> NAME: UVW </NAME>
+<COLLEGE> COLLEGE: VVCE</COLLEGE>
+<BRANCH> BRANCH: ISE </BRANCH>
+<E-MAIL> EMAIL: uvw@gmail.com </E-MAIL>
+</student>
+
+</vvce>

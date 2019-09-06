@@ -1,0 +1,58 @@
+vvce
+{
+	max-width:30%;
+	margin:auto;
+	
+}
+
+students
+{
+	display:block;
+	margin-bottom:10px;
+			
+}
+
+USN
+{
+	display:block;
+	margin-left:-10px;
+	color:black;
+}
+
+NAME
+{
+	display:block;
+	
+	
+	color:green;
+}
+
+COLLEGE
+{
+	display:block;
+	
+	color:red;
+}
+
+BRANCH
+{
+	display:block;
+	
+
+	color:brown;
+}
+
+YEAR
+{
+	display:block;
+	
+	color:orange;
+}
+
+E-MAIL
+{
+	display:block;
+	
+	color:blue;
+	
+}

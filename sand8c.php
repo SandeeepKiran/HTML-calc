@@ -15,5 +15,10 @@ for($k=0;$k<=1;$k++)
 $result[$i][$j]+=$a1[$i][$k]*$a2[$k][$j];
 }
 }
-echo "<pre/>";print_r($result);
+echo "<h1> First Matrix </h1>";
+echo "<pre/>";  print_r($a1);
+echo "<h1> Second Matrix </h1>";
+echo "<pre/>";  print_r($a2);
+echo "<h1> Resultant Matrix</h1>";
+echo "<pre/>";  print_r($res);
 ?>
